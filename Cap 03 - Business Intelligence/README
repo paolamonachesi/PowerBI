@@ -8,3 +8,5 @@ Estudo de caso 02.
 A) Qual o total de vendas por estado e por categoria? Use um mapa.
 B) Qual o total de vendas por segmento? 
 C) Qual segmento tem maior influência no valor médio de venda? 
+
+Observação: Nesta fase do curso, foi realizada uma Modelagem de Organização de Dados por Star Schema (ou esquema de estrela) na ferramente Microsoft Power BI, a modelagem encontra-se no arquivo "EstudoCaso2.pbix".
