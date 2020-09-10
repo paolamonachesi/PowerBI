@@ -1,0 +1,9 @@
+Neste capítulo do curso há aprendizado sobre Modelagem, relacionamento e cardinalidade. 
+
+Nessa pasta Cap 04, há um exercício feito com base em uma imagem, onde não foi nos mostrado no curso o "meio do caminho", apenas o destino de onde deveríamos chegar. 
+
+1- O exemplo de destino está na imagem "exercicio.png";
+2- A base de dados está no arquivo "Custos.csv";
+3- A solução está no arquivo "Cap04-Exercicio.pbix"
+
+Observação: Para a solução do exercício, utilizei coluna calculada com DAX (Margem de Lucro) e medida com DAX (Média de Vendas). 
