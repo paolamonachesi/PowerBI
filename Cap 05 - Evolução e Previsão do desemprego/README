@@ -1,0 +1,9 @@
+Neste capítulo do curso há aprendizado sobre Limpeza de dados, Transformação de dados, Engenharia de Atributos, Manipulação de Séries Temporais, Agregação e Filtros.
+
+Nessa pasta Cap 05, há um exercício feito com base em uma imagem, onde não foi nos mostrado no curso o "meio do caminho", apenas o destino de onde deveríamos chegar. 
+
+1- O exemplo de destino está na imagem "exercicio.png";
+2- A base de dados está no arquivo "Desemprego-2010-2015.xlsx";
+3- A solução está no arquivo "Cap05-Exercicio.pbix"
+
+Observação: O exercício tem como base de dados para ser trabalhada de forma DIDÁTICA. Ou seja, no exemplo da Previsão de total de desempregados há uma margem que indica uma taxa negativa e, conceitualmente isso não é possível, porém é uma fonte de dados totalmente fictícia para trabalhar com a análise de dados dentro da ferramenta Microsoft Power BI.
