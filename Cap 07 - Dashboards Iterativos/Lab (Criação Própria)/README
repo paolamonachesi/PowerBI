@@ -5,3 +5,14 @@ Neste capítulo do curso, foi pedido um dashboard iterativo para que pudesse tra
 3- O relatório foi criado no arquivo "Cap07-Lab2.pbix"
 
 Observação: Todo o relatório, desde a limpeza e tratamento dos dados até a criação e edição dos gráficos foram feitos por mim, sem nenhuma ideia do melhor resultado possível.
+
+
+Há alguns problemas na base de dados do arquivo csv e também na especificação.
+Como foi um Relatório realizado para adquirir e aplicar conhecimento, realizei a minha própria interpretação:
+Nos requisitos, as perguntas 5 "Crianças tem gasto maior que adultos?" e 6 "Qual a proporção de crianças por região?", aparentemente não há serem respondidas, 
+pois no arquivo de dados, não está clara essa informação. 
+Na especificação (PDF), a informação passada é que a coluna "Criança" é informa "se é criança", porém a coluna não reflete o que está na especificação. 
+A maneira na qual interpretei é que essa coluna de dados representa QUANTIDADE de crianças, mas isso não significa que está correto, muito pelo contrário. 
+Se fosse uma realidade, deveria verificar com a equipe para saber o significado dos registros desse tipo de dado 
+ou talvez até mesmo desconsiderar a coluna já que não tenho a informação correta do que ela representa. 
+Sendo assim, não seria possível responder a pergunta 5 e 6. Por esse motivo, realizei algumas alterações de acordo com as soluções do curso, no arquivo "Cap07-Lab2-ComSolucao".
