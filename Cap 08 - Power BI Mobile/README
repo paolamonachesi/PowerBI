@@ -1,1 +1,10 @@
-(editar)
+Neste capítulo, o aprendizado foi relacionado ao modo responsivo do Power BI, onde na ferramenta de Desktop há como montar o relatório para versão Mobile.
+
+Primeiramente, realizei o relatório normal para desktop e depois realizei os ajustes para que pudesse ficar interessante para celulares ou tablet. 
+
+1- A descrição e requisitos se encontra no arquivo "8-Lab3.pdf";
+2- Os dados (não tratados) se encontram no arquivo "dados_vendas.csv";
+3- O relatório se encontra no arquivo "Cap08-Mobile.pbix".
+
+Observação: o relatório só consegue ser acessado pelo celular caso tenha conta registrada no Microsoft Power BI. 
+Porém, ao abrir pelo Desktop, pode-se visualizar uma prévia indo em: "Exibição > Layout Móvel".
