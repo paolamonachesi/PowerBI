@@ -1,1 +1,11 @@
-(editar)
+Neste capítulo, foi passado alguns conceitos básicos do Google Analytics e um mini projeto com dados reais para realizar. 
+
+Não foi feita a integração direta com o Google Analytics pois não tenho um website ou blog.
+Porém o Mini-Projeto 1 foi feito com dados reais do Google Analytics, fornecidos pelo portal Google Merchandise Store (https://shop.googlemerchandisestore.com/), 
+com os dados obfuscados extraídos pelo site da GCP - Tecnologia de Nuvem do Google. 
+
+1- A descrição do problema e os requisitos se encontram no arquivo "Descricao do Problema.pdf";
+2- Os dados se encontram no arquivo "dataset.csv";
+3- O relatório se encontra no arquivo "Cap09-Mini-Projeto1.pbix".
+
+Obs: KPI adicionado como parte extra dos requisitos. Tendo a média de navegação de páginas por dia como base e a meta do máximo já alcançado. 
