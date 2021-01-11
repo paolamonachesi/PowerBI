@@ -1,1 +1,9 @@
+Neste capítulo, foi criado um banco de dados do zero no PostgreSQL para a construção de dashboard.
 
+Depois de criar o banco de dados e as tabelas, inseri os dados através dos arquivos csv passados pelo curso. 
+
+1- Os dados estão na pasta "datasets.zip", contendo 5 arquivos csv para importar dentro do PostgreSQL;
+2- A definição do estudo de caso está no arquivo "EstudoCaso4.pdf";
+3- O relatório se encontra no arquivo "Cap10-EstudoCaso4.pbix".
+
+Obs: Integração feita a partir do Microsoft Power BI para que pudesse obter os dados do BD criado, por mim, no PostgreSQL.
