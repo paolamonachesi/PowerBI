@@ -6,4 +6,4 @@ Depois de criar o banco de dados e as tabelas, inseri os dados através dos arqu
 2- A definição do estudo de caso está no arquivo "EstudoCaso4.pdf";
 3- O relatório se encontra no arquivo "Cap10-EstudoCaso4.pbix".
 
-Obs: Integração feita a partir do Microsoft Power BI para que pudesse obter os dados do BD criado, por mim, no PostgreSQL.
+Obs: Integração feita a partir do Microsoft Power BI para que pudesse obter os dados do BD, criado por mim, no PostgreSQL.
